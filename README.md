@@ -1,3 +1,5 @@
+Note that this fork simply uses jQuery 1.x and compat.js (in js/ folder) to maintain compatibility with IE8. Html5Shiv and Respond.js may be required, but it's not well tested without it.
+
 bootstrap-slider [![Build Status](https://travis-ci.org/seiyria/bootstrap-slider.png?branch=master)](https://travis-ci.org/seiyria/bootstrap-slider)
 ================
 Originally began as a loose "fork" of bootstrap-slider found on http://www.eyecon.ro/ by Stefan Petre.
